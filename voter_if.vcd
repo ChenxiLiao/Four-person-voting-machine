@@ -2,10 +2,10 @@ $date
         Sat Apr 16 23:41:26 2022
 $end
 $version
-	      Icarus Verilog
+	Icarus Verilog
 $end
 $timescale
-	      1ps
+	1ps
 $end
 $scope module voter_if_tb $end
 $var wire 3 ! O_tb [3:1] $end
